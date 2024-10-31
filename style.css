@@ -1,0 +1,58 @@
+h1 {
+  font-family: 'Arvo', serif;
+  text-align: center;
+}
+
+
+.container {
+   
+    height: 960px;
+    width: 960px;
+    margin:  0 auto;
+   margin-top: 10px;
+  outline: 2px solid #DDCA4C;
+}
+
+.buttons {
+  padding: 10px;
+  text-align: center;
+}
+
+button {
+  height: 35px;
+  width: 150px;
+  margin: 10px;
+  font-weight: bold;
+  border: none;
+  color: white;
+}
+
+#getSize {
+  background-color: #7F2C73;
+}
+
+#eraser {
+  background-color: #F6312A;
+}
+
+#clear {
+  background-color: #C9B823;
+}
+
+#random {
+  background: -webkit-linear-gradient(left, #E90303, #FEBC37, #1F7710, #14487B); 
+    background: -o-linear-gradient(left, #E90303, #FEBC37, #1F7710, #14487B); 
+    background: -moz-linear-gradient(left, #E90303, #FEBC37, #1F7710, #14487B); 
+    background: linear-gradient(left, #E90303, #FEBC37, #1F7710, #14487B); 
+}
+
+.squares {
+  
+   
+   width: 60px;
+  height: 60px;
+    float: left; 
+}
+
+
+
